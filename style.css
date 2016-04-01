@@ -16,8 +16,14 @@
   padding: 5px 10px;
   }
 
+  .uk-button-group a:last-of-type {
+    color: #1274B5;
+    border: solid 1px;
+    background: transparent;
+}
+
   .bg-fix {
-    background-image: url(chumma.png);
+    background-image: url(bg.png);
     background-position: 65px 0;
   }
 
